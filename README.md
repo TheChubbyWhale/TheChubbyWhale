@@ -1,39 +1,40 @@
 # 👋 Hey there! I'm TheChubbyWhale
 
-### 🚀 Developer | 🎮 Minecraft Plugins | 🤖 Discord Bot | 🧠 3D Modeling
+### Developer | Minecraft Plugins | Discord Bot | 3D Modeling | Website
 
 ---
 
-## 💼 About Me
+## About Me
 
-Hi! I'm **Yo_The_Pro19**, a developer with a background in:
+Hi! I'm **TheChubbyWhale**, a developer with a background in:
 
-- 💻 **Discord Bot Development**
-- 🛠️ **Minecraft Plugin Development**
-- 🧩 **3D Modeling & Printing** with **Fusion 360**
-- ⚙️ **Artificial Intelligence training & deployment**
+-  **Discord Bot Development**
+-  **Minecraft Plugin Development**
+-  **3D Modeling & Printing** with **Fusion 360**
+-  **Artificial Intelligence training & deployment**
 
 
 ---
 
-## 🏗️ Projects & Roles
+## Projects & Roles
 
-- 🏢 **Founder & CEO of** [`CrazyCombat Minecraft Server`](https://github.com/CrazycombatMC)
+- **Founder & CEO of** [`CrazyCombat Minecraft Server`](https://github.com/CrazycombatMC)
 
   
-- 🧠 **Developer of** [`readingSteps`](https://github.com/readingsteps/readingstepsuiv2)  & [`CC API`](https://github.com/CrazyCombatMC/CrazyCombatAPI)  
+- **Developer of** [`readingSteps`](https://github.com/readingsteps/readingstepsuiv2)  & [`CC API`](https://github.com/CrazyCombatMC/CrazyCombatAPI)  
 
   
-- 🧑‍💼 **Designer of** [`XSTR ENGINE`](https://github.com/CrazyCombatMC/CrazyCombatAPI) & [`RS logic ENGINE`](https://github.com/TheChubbyWhale/rslogic)
+- **Designer of** [`XSTR ENGINE`](https://github.com/CrazyCombatMC/CrazyCombatAPI) & [`RS logic ENGINE`](https://github.com/TheChubbyWhale/rslogic)
 
 
 ---
 
-## 🛠️ APP Info
+## APP Info
 
 - **Languages:** python, java, skript
 - **Minecraft Software:** purpur, velocity, blockbench
 - **3D & Design:** Fusion 360, orca
+- **Website Development:** Nextjs, tailwind css, react
 
 ---
 
