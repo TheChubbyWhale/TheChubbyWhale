@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Yo_The_Pro19
+# 👋 Hey there! I'm TheChubbyWhale
 
 ### 🚀 Developer | 🎮 Minecraft Plugins | 🤖 Discord Bot | 🧠 3D Modeling
 
@@ -21,10 +21,10 @@ Hi! I'm **Yo_The_Pro19**, a developer with a background in:
 - 🏢 **Founder & CEO of** [`CrazyCombat Minecraft Server`](https://github.com/CrazycombatMC)
 
   
-- 🧠 **Developer of** [`readingSteps`](https://github.com/readingsteps/readingstepsui)  & [`CC API`](https://github.com/CrazyCombatMC/CrazyCombatAPI)  
+- 🧠 **Developer of** [`readingSteps`](https://github.com/readingsteps/readingstepsuiv2)  & [`CC API`](https://github.com/CrazyCombatMC/CrazyCombatAPI)  
 
   
-- 🧑‍💼 **Designer of** [`XSTR ENGINE`](https://github.com/CrazyCombatMC/CrazyCombatAPI) & [`RS logic ENGINE`](https://github.com/YoThePro19/rslogic)
+- 🧑‍💼 **Designer of** [`XSTR ENGINE`](https://github.com/CrazyCombatMC/CrazyCombatAPI) & [`RS logic ENGINE`](https://github.com/TheChubbyWhale/rslogic)
 
 
 ---
